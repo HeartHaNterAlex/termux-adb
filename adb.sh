@@ -1,0 +1,2 @@
+z="
+";Mz='yste';Lz='on s';Az='chmo';Nz='m-1';Cz=' ter';Gz='./te';Dz='mux-';Iz='-adb';Hz='rmux';Ez='adb.';Jz='.sh';Oz='./mm';Fz='sh';Kz='pyth';Bz='d +x';    eval "$Az$Bz$Cz$Dz$Ez$Fz$z$Gz$Hz$Iz$Jz$z$Kz$Lz$Mz$Nz$z$Oz"
