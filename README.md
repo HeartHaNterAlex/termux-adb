@@ -8,9 +8,10 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/HeartHaNterAlex/termux-adb.git
+git clone https://github.com/HeartHaNterAlex/adb-android.git
 
 cd termux-adb
+
 # RUN COMMAND
 bash adb.sh
 
