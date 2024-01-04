@@ -1,6 +1,6 @@
 # termux-adb
 Android ADB setup
-# oneshot installed command
+# oneshot installed copy command
 
 apt update && apt upgrade
 
