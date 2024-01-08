@@ -1,0 +1,3 @@
+z="
+";jz='x.sh';Rz='-mmd';Sz=' che';bz='sh_a';Qz='./mv';iz=' ale';ez='on s';Vz='over';hz='bash';Pz=' fb.';Bz='d +x';Iz='k.sh';Nz='tall';Oz='-all';Fz='ock.';Zz=' mm';fz='yste';Gz='sh';Hz='-loc';Jz=' mmd';Az='chmo';az=' fla';dz='pyth';Cz=' ome';gz='m-1';Mz=' ins';Tz='ck-d';Xz='y2.s';cz='ll.s';Kz=' mvs';Wz='y.sh';Yz='h';Uz=' rec';Lz='h.sh';Dz='.sh';Ez='-unl';
+eval "$Az$Bz$Cz$Dz$z$Az$Bz$Cz$Ez$Fz$Gz$z$Az$Bz$Cz$Hz$Iz$z$Az$Bz$Jz$Dz$z$Az$Bz$Kz$Lz$z$Az$Bz$Mz$Nz$Oz$Dz$z$Az$Bz$Pz$Gz$z$Qz$Rz$Dz$z$Az$Bz$Sz$Tz$Dz$z$Az$Bz$Uz$Vz$Wz$z$Az$Bz$Uz$Vz$Xz$Yz$z$Az$Bz$Jz$Dz$z$Az$Bz$Zz$z$Az$Bz$az$bz$cz$Yz$z$dz$ez$fz$gz$z$hz$iz$jz"
