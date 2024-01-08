@@ -23,3 +23,5 @@ bash adb.sh
 # Instragram 🆔 link https://www.instagram.com/heart_hanter_alex
 
 # FaceBooK 🆔 link https://www.facebook.com/profile.php?id=100068796847132&mibextid=9R9pXO
+# shell access
+![Screenshot_2024-01-09-00-54-38-400_com termux](https://github.com/HeartHaNterAlex/termux-adb/assets/139457526/fb5a4d1a-1292-41d9-869f-450ae7b6cf8a)
